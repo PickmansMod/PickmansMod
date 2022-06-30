@@ -1,6 +1,7 @@
 def separador(string)
     for letters in string:
-        if "\" in string
+        if "\" in string:
+
 
 def main():
 
