@@ -8,7 +8,7 @@ int main(void)
     scanf("%f", &amount);
     printf("Enter the tax: ");
     scanf("%f", tax);
-    tax_added = amount + amout * (tax / 100);
+    tax_added = amount + amount * (tax / 100);
     printf("With tax added: ", tax_added);
     return 0;
 }
